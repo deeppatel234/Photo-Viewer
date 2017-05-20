@@ -55,3 +55,16 @@ A:\My Personal\Visual Studio Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoVie
 A:\My Personal\Visual Studio Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.TrustInfo.xml
 A:\My Personal\Visual Studio Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.exe.manifest
 A:\My Personal\Visual Studio Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.application
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\bin\Debug\PhotoViewer.exe.config
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.exe
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.pdb
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.csprojResolveAssemblyReference.cache
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.FullScreen.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.Help.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.Information.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.MainPage.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.Properties.Resources.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.SlideShow.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.WelcomePage.resources
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.csproj.GenerateResource.Cache
+C:\Users\Deep Patel\Documents\GIT Projects\Photo-Viewer\PhotoViewer\obj\Debug\PhotoViewer.TrustInfo.xml
